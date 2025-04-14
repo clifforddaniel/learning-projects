@@ -1,0 +1,19 @@
+.pink {
+    background-color: rgba(255, 0, 85, 0.253);
+    font-family: Verdana, Geneva, Tahoma, DejaVu Sans, sans-serif;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.larger {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgba(52, 252, 98, 0.644);
+    font-weight: bold;
+    font-size: 24px;
+}

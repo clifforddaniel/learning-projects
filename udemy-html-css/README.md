@@ -1,0 +1,1 @@
+Files I made while following [the HTML/CSS course by Brad Traversy](https://www.udemy.com/course/modern-html-css-from-the-beginning/?srsltid=AfmBOoqHck0fXf9Xn4TAiNutoHxLNxmOzRIWBSvIMaQqfM0Akm8EIufQ&couponCode=ST19MT121224) on Udemy
